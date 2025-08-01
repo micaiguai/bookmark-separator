@@ -1,4 +1,2 @@
 # Usage
-```bash
-pnpx degit https://github.com/micaiguai/boilerplate new-project
-```
+Visit: https://bookmark-separator.vercel.app

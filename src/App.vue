@@ -67,11 +67,12 @@ watch(dynamicWidth, () => {
       </div>
       {{ bookmark }}
     </div>
-    <div ref="defaultSizeContainer" class="">
+    <div ref="defaultSizeContainer" class="invisible">
       {{ DEFAULT_BOOKMARK }}
     </div>
-    <div ref="dynamicSizeContainer" class="">
+    <div ref="dynamicSizeContainer" class="invisible">
       {{ bookmark }}
     </div>
+    <a href="https://github.com/micaiguai/bookmark-separator" class="text-gray/90 p-2 bottom-2 left-2 absolute">Source Code</a>
   </div>
 </template>
