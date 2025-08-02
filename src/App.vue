@@ -61,7 +61,7 @@ watch(dynamicWidth, () => {
     <div class="text-3xl mb-4">
       To your bookmarks toolbar
     </div>
-    <div class="w-content p-2 rounded min-h-12 ring ring-gray/30">
+    <div class="p-2 rounded min-h-12 w-fit ring ring-gray/30">
       <div class="text-gray/60">
         Preview
       </div>
